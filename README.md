@@ -24,7 +24,7 @@ Procuro sempre aprender com o próximo, qualquer dica e ajuda será bem vinda!
 
 ---
 
- 🚀 Minhas principais competências
+ 🚀 Minhas Principais Competências
 
 💻 Aprendendo Técnicas:
 •	JavaScript
