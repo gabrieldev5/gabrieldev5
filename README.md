@@ -22,20 +22,26 @@ Procuro sempre aprender com o próximo, qualquer dica e ajuda será bem vinda!
 
 - Whatsapp: 64992768163
 
+---
 
-🚀 Minhas principais competências
+ 🚀 Minhas principais competências
 
 💻 Aprendendo Técnicas:
-	•	JavaScript
-	•	HTML5 & CSS3
-	•	Banco de Dados (MySQL)
+•	JavaScript
+ 
+•	HTML5 & CSS3
+ 
+•	Banco de Dados (MySQL)
 
 🧠 Comportamentais:
-	•	Comunicação assertiva
-	•	Resolução de problemas
-	•	Liderança e motivação de equipes
 
-⸻
+•	Comunicação assertiva
+
+•	Resolução de problemas
+
+•	Liderança e motivação de equipes
+
+
 
 📌 Projetos em destaque
 	
@@ -51,7 +57,7 @@ Procuro sempre aprender com o próximo, qualquer dica e ajuda será bem vinda!
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 
 
 <div align = "left">
