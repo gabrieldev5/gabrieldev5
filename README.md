@@ -1,7 +1,7 @@
+<img src = "Code Hacking GIF by Pizza Ninjas.gif" width = "325px">
 
 
-
-# 👋 Olá, eu sou Gabriel Henrique Rodrigues de Lima (gabrieldev5)
+# 👋 Olá Seja Bem Vindo(a), Eu sou Gabriel Henrique Rodrigues de Lima (gabrieldev5)
 
  <div> 
   <a href="https://www.linkedin.com/in/gabriel-henrique-rodrigues-de-lima-80900637a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -10,7 +10,7 @@
 
 
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Analista e Desenvolvedor de Software | Foco em Dev.Java / Front-End / Back-End
+🎯 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul | Aspirante a Analista e Desenvolvedor de Software | Foco em Dev.Java / Front-End / Back-End
 
 Sou apaixonado por tecnologia desde os 10 anos e estou em transição de carreira, trazendo comigo mais de 5 anos de experiência como empreendedor e gestor de equipes. Minha missão é transformar ideias em soluções tecnológicas inovadoras que gerem impacto positivo e duradouro.
 
