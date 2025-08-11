@@ -57,7 +57,7 @@ Procuro sempre aprender com o próximo, qualquer dica e ajuda será bem vinda!
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-
+---
 
 
 <div align = "left">
