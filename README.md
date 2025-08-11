@@ -1,4 +1,4 @@
-<img src = "Code Hacking GIF by Pizza Ninjas.gif" width = "325px">
+<img src = "Code Hacking GIF by Pizza Ninjas.gif" width = "325px" align = "right">
 
 
 # 👋 Olá Seja Bem Vindo(a), Eu sou Gabriel Henrique Rodrigues de Lima (gabrieldev5)
