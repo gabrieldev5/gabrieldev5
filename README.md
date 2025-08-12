@@ -10,7 +10,7 @@
 
 
 
-🎯 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul | Aspirante a Analista e Desenvolvedor de Software/Jogos | Foco em Dev.Java / Front-End / Back-End
+🎯 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul | Aspirante a Analista e Desenvolvedor de Software/ Banco de Dados | Foco em Dev.Java / Front-End / Back-End
 
 Sou apaixonado por tecnologia e Jogos desde os 10 anos e estou em transição de carreira, trazendo comigo mais de 5 anos de experiência como empreendedor e gestor de equipes. Minha missão é transformar ideias em soluções tecnológicas inovadoras que gerem impacto positivo e duradouro.
 
